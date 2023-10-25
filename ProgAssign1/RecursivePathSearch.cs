@@ -1,4 +1,4 @@
-﻿using System;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -33,6 +33,11 @@ namespace Assignment1
                           pathFinder(list,logger);
                     }
                     string[] filePathsList = Directory.GetFiles(path);
+                    /* here we are finding the Date component from the path by splitting the path with '\' and then we store each component of date to its corresponding variable
+                     * this date finding assumes that the path is always in 
+                     * "xyz/abc/yyyy/mm/dd/file.csv"
+                     
+                     */
                     string[] pathComponents = path.Split('\\');
                     int yyyy = 0;
                     int mm = 0;
