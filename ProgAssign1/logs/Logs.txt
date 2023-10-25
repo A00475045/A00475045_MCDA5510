@@ -1,0 +1,832 @@
+F:\SMU academics\5510\Assignments\MCDA5510_Assignments\Sample Data
+
+F:\SMU academics\5510\Assignments\MCDA5510_Assignments\Sample Data\Sample Data
+
+F:\SMU academics\5510\Assignments\MCDA5510_Assignments\Sample Data\Sample Data\2017
+
+F:\SMU academics\5510\Assignments\MCDA5510_Assignments\Sample Data\Sample Data\2017\11
+
+F:\SMU academics\5510\Assignments\MCDA5510_Assignments\Sample Data\Sample Data\2017\11\10
+
+     F:\SMU academics\5510\Assignments\MCDA5510_Assignments\Sample Data\Sample Data\2017\11\10\CustomerData0.csv
+
+     Number of valid rows: 20
+     Number of inValid rows: 7
+     ------------------------------------------------------------------------------------------------------------
+     F:\SMU academics\5510\Assignments\MCDA5510_Assignments\Sample Data\Sample Data\2017\11\10\CustomerData1.csv
+
+     Number of valid rows: 21
+     Number of inValid rows: 13
+     ------------------------------------------------------------------------------------------------------------
+     F:\SMU academics\5510\Assignments\MCDA5510_Assignments\Sample Data\Sample Data\2017\11\10\CustomerData10.csv
+
+     Number of valid rows: 29
+     Number of inValid rows: 12
+     ------------------------------------------------------------------------------------------------------------
+     F:\SMU academics\5510\Assignments\MCDA5510_Assignments\Sample Data\Sample Data\2017\11\10\CustomerData11.csv
+
+     Number of valid rows: 29
+     Number of inValid rows: 12
+     ------------------------------------------------------------------------------------------------------------
+     F:\SMU academics\5510\Assignments\MCDA5510_Assignments\Sample Data\Sample Data\2017\11\10\CustomerData12.csv
+
+     Number of valid rows: 17
+     Number of inValid rows: 12
+     ------------------------------------------------------------------------------------------------------------
+     F:\SMU academics\5510\Assignments\MCDA5510_Assignments\Sample Data\Sample Data\2017\11\10\CustomerData13.csv
+
+     Number of valid rows: 25
+     Number of inValid rows: 8
+     ------------------------------------------------------------------------------------------------------------
+     F:\SMU academics\5510\Assignments\MCDA5510_Assignments\Sample Data\Sample Data\2017\11\10\CustomerData14.csv
+
+     Number of valid rows: 1
+     Number of inValid rows: 0
+     ------------------------------------------------------------------------------------------------------------
+     F:\SMU academics\5510\Assignments\MCDA5510_Assignments\Sample Data\Sample Data\2017\11\10\CustomerData15.csv
+
+     Number of valid rows: 15
+     Number of inValid rows: 9
+     ------------------------------------------------------------------------------------------------------------
+     F:\SMU academics\5510\Assignments\MCDA5510_Assignments\Sample Data\Sample Data\2017\11\10\CustomerData16.csv
+
+     Number of valid rows: 23
+     Number of inValid rows: 11
+     ------------------------------------------------------------------------------------------------------------
+     F:\SMU academics\5510\Assignments\MCDA5510_Assignments\Sample Data\Sample Data\2017\11\10\CustomerData17.csv
+
+     Number of valid rows: 17
+     Number of inValid rows: 11
+     ------------------------------------------------------------------------------------------------------------
+     F:\SMU academics\5510\Assignments\MCDA5510_Assignments\Sample Data\Sample Data\2017\11\10\CustomerData18.csv
+
+     Number of valid rows: 14
+     Number of inValid rows: 7
+     ------------------------------------------------------------------------------------------------------------
+     F:\SMU academics\5510\Assignments\MCDA5510_Assignments\Sample Data\Sample Data\2017\11\10\CustomerData19.csv
+
+     Number of valid rows: 27
+     Number of inValid rows: 11
+     ------------------------------------------------------------------------------------------------------------
+     F:\SMU academics\5510\Assignments\MCDA5510_Assignments\Sample Data\Sample Data\2017\11\10\CustomerData2.csv
+
+     Number of valid rows: 5
+     Number of inValid rows: 4
+     ------------------------------------------------------------------------------------------------------------
+     F:\SMU academics\5510\Assignments\MCDA5510_Assignments\Sample Data\Sample Data\2017\11\10\CustomerData20.csv
+
+     Number of valid rows: 10
+     Number of inValid rows: 7
+     ------------------------------------------------------------------------------------------------------------
+     F:\SMU academics\5510\Assignments\MCDA5510_Assignments\Sample Data\Sample Data\2017\11\10\CustomerData21.csv
+
+     Number of valid rows: 14
+     Number of inValid rows: 8
+     ------------------------------------------------------------------------------------------------------------
+     F:\SMU academics\5510\Assignments\MCDA5510_Assignments\Sample Data\Sample Data\2017\11\10\CustomerData22.csv
+
+     Number of valid rows: 9
+     Number of inValid rows: 7
+     ------------------------------------------------------------------------------------------------------------
+     F:\SMU academics\5510\Assignments\MCDA5510_Assignments\Sample Data\Sample Data\2017\11\10\CustomerData23.csv
+
+     Number of valid rows: 29
+     Number of inValid rows: 13
+     ------------------------------------------------------------------------------------------------------------
+     F:\SMU academics\5510\Assignments\MCDA5510_Assignments\Sample Data\Sample Data\2017\11\10\CustomerData24.csv
+
+     Number of valid rows: 6
+     Number of inValid rows: 5
+     ------------------------------------------------------------------------------------------------------------
+     F:\SMU academics\5510\Assignments\MCDA5510_Assignments\Sample Data\Sample Data\2017\11\10\CustomerData25.csv
+
+     Number of valid rows: 11
+     Number of inValid rows: 1
+     ------------------------------------------------------------------------------------------------------------
+     F:\SMU academics\5510\Assignments\MCDA5510_Assignments\Sample Data\Sample Data\2017\11\10\CustomerData26.csv
+
+     Number of valid rows: 8
+     Number of inValid rows: 2
+     ------------------------------------------------------------------------------------------------------------
+     F:\SMU academics\5510\Assignments\MCDA5510_Assignments\Sample Data\Sample Data\2017\11\10\CustomerData27.csv
+
+     Number of valid rows: 14
+     Number of inValid rows: 6
+     ------------------------------------------------------------------------------------------------------------
+     F:\SMU academics\5510\Assignments\MCDA5510_Assignments\Sample Data\Sample Data\2017\11\10\CustomerData28.csv
+
+     Number of valid rows: 26
+     Number of inValid rows: 11
+     ------------------------------------------------------------------------------------------------------------
+     F:\SMU academics\5510\Assignments\MCDA5510_Assignments\Sample Data\Sample Data\2017\11\10\CustomerData29.csv
+
+     Number of valid rows: 20
+     Number of inValid rows: 6
+     ------------------------------------------------------------------------------------------------------------
+     F:\SMU academics\5510\Assignments\MCDA5510_Assignments\Sample Data\Sample Data\2017\11\10\CustomerData3.csv
+
+     Number of valid rows: 7
+     Number of inValid rows: 4
+     ------------------------------------------------------------------------------------------------------------
+     F:\SMU academics\5510\Assignments\MCDA5510_Assignments\Sample Data\Sample Data\2017\11\10\CustomerData30.csv
+
+     Number of valid rows: 4
+     Number of inValid rows: 1
+     ------------------------------------------------------------------------------------------------------------
+     F:\SMU academics\5510\Assignments\MCDA5510_Assignments\Sample Data\Sample Data\2017\11\10\CustomerData31.csv
+
+     Number of valid rows: 17
+     Number of inValid rows: 15
+     ------------------------------------------------------------------------------------------------------------
+     F:\SMU academics\5510\Assignments\MCDA5510_Assignments\Sample Data\Sample Data\2017\11\10\CustomerData32.csv
+
+     Number of valid rows: 15
+     Number of inValid rows: 5
+     ------------------------------------------------------------------------------------------------------------
+     F:\SMU academics\5510\Assignments\MCDA5510_Assignments\Sample Data\Sample Data\2017\11\10\CustomerData33.csv
+
+     Number of valid rows: 25
+     Number of inValid rows: 15
+     ------------------------------------------------------------------------------------------------------------
+     F:\SMU academics\5510\Assignments\MCDA5510_Assignments\Sample Data\Sample Data\2017\11\10\CustomerData34.csv
+
+     Number of valid rows: 6
+     Number of inValid rows: 4
+     ------------------------------------------------------------------------------------------------------------
+     F:\SMU academics\5510\Assignments\MCDA5510_Assignments\Sample Data\Sample Data\2017\11\10\CustomerData35.csv
+
+     Number of valid rows: 1
+     Number of inValid rows: 0
+     ------------------------------------------------------------------------------------------------------------
+     F:\SMU academics\5510\Assignments\MCDA5510_Assignments\Sample Data\Sample Data\2017\11\10\CustomerData36.csv
+
+     Number of valid rows: 17
+     Number of inValid rows: 9
+     ------------------------------------------------------------------------------------------------------------
+     F:\SMU academics\5510\Assignments\MCDA5510_Assignments\Sample Data\Sample Data\2017\11\10\CustomerData37.csv
+
+     Number of valid rows: 2
+     Number of inValid rows: 0
+     ------------------------------------------------------------------------------------------------------------
+     F:\SMU academics\5510\Assignments\MCDA5510_Assignments\Sample Data\Sample Data\2017\11\10\CustomerData4.csv
+
+     Number of valid rows: 18
+     Number of inValid rows: 11
+     ------------------------------------------------------------------------------------------------------------
+     F:\SMU academics\5510\Assignments\MCDA5510_Assignments\Sample Data\Sample Data\2017\11\10\CustomerData5.csv
+
+     Number of valid rows: 14
+     Number of inValid rows: 4
+     ------------------------------------------------------------------------------------------------------------
+     F:\SMU academics\5510\Assignments\MCDA5510_Assignments\Sample Data\Sample Data\2017\11\10\CustomerData6.csv
+
+     Number of valid rows: 11
+     Number of inValid rows: 9
+     ------------------------------------------------------------------------------------------------------------
+     F:\SMU academics\5510\Assignments\MCDA5510_Assignments\Sample Data\Sample Data\2017\11\10\CustomerData7.csv
+
+     Number of valid rows: 26
+     Number of inValid rows: 14
+     ------------------------------------------------------------------------------------------------------------
+     F:\SMU academics\5510\Assignments\MCDA5510_Assignments\Sample Data\Sample Data\2017\11\10\CustomerData8.csv
+
+     Number of valid rows: 23
+     Number of inValid rows: 11
+     ------------------------------------------------------------------------------------------------------------
+     F:\SMU academics\5510\Assignments\MCDA5510_Assignments\Sample Data\Sample Data\2017\11\10\CustomerData9.csv
+
+     Number of valid rows: 25
+     Number of inValid rows: 10
+     ------------------------------------------------------------------------------------------------------------
+============================================================================================================================
+F:\SMU academics\5510\Assignments\MCDA5510_Assignments\Sample Data\Sample Data\2017\11\11
+
+     F:\SMU academics\5510\Assignments\MCDA5510_Assignments\Sample Data\Sample Data\2017\11\11\CustomerData0.csv
+
+     Number of valid rows: 7
+     Number of inValid rows: 5
+     ------------------------------------------------------------------------------------------------------------
+     F:\SMU academics\5510\Assignments\MCDA5510_Assignments\Sample Data\Sample Data\2017\11\11\CustomerData1.csv
+
+     Number of valid rows: 26
+     Number of inValid rows: 10
+     ------------------------------------------------------------------------------------------------------------
+     F:\SMU academics\5510\Assignments\MCDA5510_Assignments\Sample Data\Sample Data\2017\11\11\CustomerData10.csv
+
+     Number of valid rows: 2
+     Number of inValid rows: 0
+     ------------------------------------------------------------------------------------------------------------
+     F:\SMU academics\5510\Assignments\MCDA5510_Assignments\Sample Data\Sample Data\2017\11\11\CustomerData11.csv
+
+     Number of valid rows: 13
+     Number of inValid rows: 8
+     ------------------------------------------------------------------------------------------------------------
+     F:\SMU academics\5510\Assignments\MCDA5510_Assignments\Sample Data\Sample Data\2017\11\11\CustomerData12.csv
+
+     Number of valid rows: 25
+     Number of inValid rows: 9
+     ------------------------------------------------------------------------------------------------------------
+     F:\SMU academics\5510\Assignments\MCDA5510_Assignments\Sample Data\Sample Data\2017\11\11\CustomerData13.csv
+
+     Number of valid rows: 26
+     Number of inValid rows: 11
+     ------------------------------------------------------------------------------------------------------------
+     F:\SMU academics\5510\Assignments\MCDA5510_Assignments\Sample Data\Sample Data\2017\11\11\CustomerData14.csv
+
+     Number of valid rows: 23
+     Number of inValid rows: 12
+     ------------------------------------------------------------------------------------------------------------
+     F:\SMU academics\5510\Assignments\MCDA5510_Assignments\Sample Data\Sample Data\2017\11\11\CustomerData15.csv
+
+     Number of valid rows: 17
+     Number of inValid rows: 10
+     ------------------------------------------------------------------------------------------------------------
+     F:\SMU academics\5510\Assignments\MCDA5510_Assignments\Sample Data\Sample Data\2017\11\11\CustomerData16.csv
+
+     Number of valid rows: 23
+     Number of inValid rows: 18
+     ------------------------------------------------------------------------------------------------------------
+     F:\SMU academics\5510\Assignments\MCDA5510_Assignments\Sample Data\Sample Data\2017\11\11\CustomerData17.csv
+
+     Number of valid rows: 9
+     Number of inValid rows: 3
+     ------------------------------------------------------------------------------------------------------------
+     F:\SMU academics\5510\Assignments\MCDA5510_Assignments\Sample Data\Sample Data\2017\11\11\CustomerData18.csv
+
+     Number of valid rows: 9
+     Number of inValid rows: 5
+     ------------------------------------------------------------------------------------------------------------
+     F:\SMU academics\5510\Assignments\MCDA5510_Assignments\Sample Data\Sample Data\2017\11\11\CustomerData19.csv
+
+     Number of valid rows: 2
+     Number of inValid rows: 0
+     ------------------------------------------------------------------------------------------------------------
+     F:\SMU academics\5510\Assignments\MCDA5510_Assignments\Sample Data\Sample Data\2017\11\11\CustomerData2.csv
+
+     Number of valid rows: 9
+     Number of inValid rows: 4
+     ------------------------------------------------------------------------------------------------------------
+     F:\SMU academics\5510\Assignments\MCDA5510_Assignments\Sample Data\Sample Data\2017\11\11\CustomerData20.csv
+
+     Number of valid rows: 31
+     Number of inValid rows: 11
+     ------------------------------------------------------------------------------------------------------------
+     F:\SMU academics\5510\Assignments\MCDA5510_Assignments\Sample Data\Sample Data\2017\11\11\CustomerData21.csv
+
+     Number of valid rows: 26
+     Number of inValid rows: 12
+     ------------------------------------------------------------------------------------------------------------
+     F:\SMU academics\5510\Assignments\MCDA5510_Assignments\Sample Data\Sample Data\2017\11\11\CustomerData22.csv
+
+     Number of valid rows: 21
+     Number of inValid rows: 4
+     ------------------------------------------------------------------------------------------------------------
+     F:\SMU academics\5510\Assignments\MCDA5510_Assignments\Sample Data\Sample Data\2017\11\11\CustomerData3.csv
+
+     Number of valid rows: 9
+     Number of inValid rows: 6
+     ------------------------------------------------------------------------------------------------------------
+     F:\SMU academics\5510\Assignments\MCDA5510_Assignments\Sample Data\Sample Data\2017\11\11\CustomerData4.csv
+
+     Number of valid rows: 20
+     Number of inValid rows: 5
+     ------------------------------------------------------------------------------------------------------------
+     F:\SMU academics\5510\Assignments\MCDA5510_Assignments\Sample Data\Sample Data\2017\11\11\CustomerData5.csv
+
+     Number of valid rows: 5
+     Number of inValid rows: 6
+     ------------------------------------------------------------------------------------------------------------
+     F:\SMU academics\5510\Assignments\MCDA5510_Assignments\Sample Data\Sample Data\2017\11\11\CustomerData6.csv
+
+     Number of valid rows: 26
+     Number of inValid rows: 11
+     ------------------------------------------------------------------------------------------------------------
+     F:\SMU academics\5510\Assignments\MCDA5510_Assignments\Sample Data\Sample Data\2017\11\11\CustomerData7.csv
+
+     Number of valid rows: 12
+     Number of inValid rows: 6
+     ------------------------------------------------------------------------------------------------------------
+     F:\SMU academics\5510\Assignments\MCDA5510_Assignments\Sample Data\Sample Data\2017\11\11\CustomerData8.csv
+
+     Number of valid rows: 25
+     Number of inValid rows: 13
+     ------------------------------------------------------------------------------------------------------------
+     F:\SMU academics\5510\Assignments\MCDA5510_Assignments\Sample Data\Sample Data\2017\11\11\CustomerData9.csv
+
+     Number of valid rows: 26
+     Number of inValid rows: 4
+     ------------------------------------------------------------------------------------------------------------
+============================================================================================================================
+F:\SMU academics\5510\Assignments\MCDA5510_Assignments\Sample Data\Sample Data\2017\11\12
+
+     F:\SMU academics\5510\Assignments\MCDA5510_Assignments\Sample Data\Sample Data\2017\11\12\CustomerData0.csv
+
+     Number of valid rows: 23
+     Number of inValid rows: 13
+     ------------------------------------------------------------------------------------------------------------
+     F:\SMU academics\5510\Assignments\MCDA5510_Assignments\Sample Data\Sample Data\2017\11\12\CustomerData1.csv
+
+     Number of valid rows: 24
+     Number of inValid rows: 13
+     ------------------------------------------------------------------------------------------------------------
+     F:\SMU academics\5510\Assignments\MCDA5510_Assignments\Sample Data\Sample Data\2017\11\12\CustomerData2.csv
+
+     Number of valid rows: 17
+     Number of inValid rows: 7
+     ------------------------------------------------------------------------------------------------------------
+     F:\SMU academics\5510\Assignments\MCDA5510_Assignments\Sample Data\Sample Data\2017\11\12\CustomerData3.csv
+
+     Number of valid rows: 12
+     Number of inValid rows: 6
+     ------------------------------------------------------------------------------------------------------------
+     F:\SMU academics\5510\Assignments\MCDA5510_Assignments\Sample Data\Sample Data\2017\11\12\CustomerData4.csv
+
+     Number of valid rows: 16
+     Number of inValid rows: 8
+     ------------------------------------------------------------------------------------------------------------
+     F:\SMU academics\5510\Assignments\MCDA5510_Assignments\Sample Data\Sample Data\2017\11\12\CustomerData5.csv
+
+     Number of valid rows: 8
+     Number of inValid rows: 6
+     ------------------------------------------------------------------------------------------------------------
+     F:\SMU academics\5510\Assignments\MCDA5510_Assignments\Sample Data\Sample Data\2017\11\12\CustomerData6.csv
+
+     Number of valid rows: 28
+     Number of inValid rows: 14
+     ------------------------------------------------------------------------------------------------------------
+============================================================================================================================
+F:\SMU academics\5510\Assignments\MCDA5510_Assignments\Sample Data\Sample Data\2017\11\13
+
+     F:\SMU academics\5510\Assignments\MCDA5510_Assignments\Sample Data\Sample Data\2017\11\13\CustomerData0.csv
+
+     Number of valid rows: 18
+     Number of inValid rows: 6
+     ------------------------------------------------------------------------------------------------------------
+     F:\SMU academics\5510\Assignments\MCDA5510_Assignments\Sample Data\Sample Data\2017\11\13\CustomerData1.csv
+
+     Number of valid rows: 16
+     Number of inValid rows: 10
+     ------------------------------------------------------------------------------------------------------------
+     F:\SMU academics\5510\Assignments\MCDA5510_Assignments\Sample Data\Sample Data\2017\11\13\CustomerData10.csv
+
+     Number of valid rows: 23
+     Number of inValid rows: 8
+     ------------------------------------------------------------------------------------------------------------
+     F:\SMU academics\5510\Assignments\MCDA5510_Assignments\Sample Data\Sample Data\2017\11\13\CustomerData11.csv
+
+     Number of valid rows: 1
+     Number of inValid rows: 0
+     ------------------------------------------------------------------------------------------------------------
+     F:\SMU academics\5510\Assignments\MCDA5510_Assignments\Sample Data\Sample Data\2017\11\13\CustomerData12.csv
+
+     Number of valid rows: 15
+     Number of inValid rows: 8
+     ------------------------------------------------------------------------------------------------------------
+     F:\SMU academics\5510\Assignments\MCDA5510_Assignments\Sample Data\Sample Data\2017\11\13\CustomerData13.csv
+
+     Number of valid rows: 22
+     Number of inValid rows: 12
+     ------------------------------------------------------------------------------------------------------------
+     F:\SMU academics\5510\Assignments\MCDA5510_Assignments\Sample Data\Sample Data\2017\11\13\CustomerData14.csv
+
+     Number of valid rows: 0
+     Number of inValid rows: 2
+     ------------------------------------------------------------------------------------------------------------
+     F:\SMU academics\5510\Assignments\MCDA5510_Assignments\Sample Data\Sample Data\2017\11\13\CustomerData15.csv
+
+     Number of valid rows: 8
+     Number of inValid rows: 3
+     ------------------------------------------------------------------------------------------------------------
+     F:\SMU academics\5510\Assignments\MCDA5510_Assignments\Sample Data\Sample Data\2017\11\13\CustomerData16.csv
+
+     Number of valid rows: 21
+     Number of inValid rows: 14
+     ------------------------------------------------------------------------------------------------------------
+     F:\SMU academics\5510\Assignments\MCDA5510_Assignments\Sample Data\Sample Data\2017\11\13\CustomerData17.csv
+
+     Number of valid rows: 8
+     Number of inValid rows: 8
+     ------------------------------------------------------------------------------------------------------------
+     F:\SMU academics\5510\Assignments\MCDA5510_Assignments\Sample Data\Sample Data\2017\11\13\CustomerData18.csv
+
+     Number of valid rows: 25
+     Number of inValid rows: 10
+     ------------------------------------------------------------------------------------------------------------
+     F:\SMU academics\5510\Assignments\MCDA5510_Assignments\Sample Data\Sample Data\2017\11\13\CustomerData19.csv
+
+     Number of valid rows: 9
+     Number of inValid rows: 6
+     ------------------------------------------------------------------------------------------------------------
+     F:\SMU academics\5510\Assignments\MCDA5510_Assignments\Sample Data\Sample Data\2017\11\13\CustomerData2.csv
+
+     Number of valid rows: 25
+     Number of inValid rows: 11
+     ------------------------------------------------------------------------------------------------------------
+     F:\SMU academics\5510\Assignments\MCDA5510_Assignments\Sample Data\Sample Data\2017\11\13\CustomerData20.csv
+
+     Number of valid rows: 8
+     Number of inValid rows: 2
+     ------------------------------------------------------------------------------------------------------------
+     F:\SMU academics\5510\Assignments\MCDA5510_Assignments\Sample Data\Sample Data\2017\11\13\CustomerData21.csv
+
+     Number of valid rows: 8
+     Number of inValid rows: 3
+     ------------------------------------------------------------------------------------------------------------
+     F:\SMU academics\5510\Assignments\MCDA5510_Assignments\Sample Data\Sample Data\2017\11\13\CustomerData22.csv
+
+     Number of valid rows: 23
+     Number of inValid rows: 18
+     ------------------------------------------------------------------------------------------------------------
+     F:\SMU academics\5510\Assignments\MCDA5510_Assignments\Sample Data\Sample Data\2017\11\13\CustomerData23.csv
+
+     Number of valid rows: 15
+     Number of inValid rows: 3
+     ------------------------------------------------------------------------------------------------------------
+     F:\SMU academics\5510\Assignments\MCDA5510_Assignments\Sample Data\Sample Data\2017\11\13\CustomerData24.csv
+
+     Number of valid rows: 11
+     Number of inValid rows: 7
+     ------------------------------------------------------------------------------------------------------------
+     F:\SMU academics\5510\Assignments\MCDA5510_Assignments\Sample Data\Sample Data\2017\11\13\CustomerData25.csv
+
+     Number of valid rows: 29
+     Number of inValid rows: 9
+     ------------------------------------------------------------------------------------------------------------
+     F:\SMU academics\5510\Assignments\MCDA5510_Assignments\Sample Data\Sample Data\2017\11\13\CustomerData26.csv
+
+     Number of valid rows: 12
+     Number of inValid rows: 8
+     ------------------------------------------------------------------------------------------------------------
+     F:\SMU academics\5510\Assignments\MCDA5510_Assignments\Sample Data\Sample Data\2017\11\13\CustomerData27.csv
+
+     Number of valid rows: 18
+     Number of inValid rows: 4
+     ------------------------------------------------------------------------------------------------------------
+     F:\SMU academics\5510\Assignments\MCDA5510_Assignments\Sample Data\Sample Data\2017\11\13\CustomerData28.csv
+
+     Number of valid rows: 22
+     Number of inValid rows: 10
+     ------------------------------------------------------------------------------------------------------------
+     F:\SMU academics\5510\Assignments\MCDA5510_Assignments\Sample Data\Sample Data\2017\11\13\CustomerData29.csv
+
+     Number of valid rows: 8
+     Number of inValid rows: 5
+     ------------------------------------------------------------------------------------------------------------
+     F:\SMU academics\5510\Assignments\MCDA5510_Assignments\Sample Data\Sample Data\2017\11\13\CustomerData3.csv
+
+     Number of valid rows: 30
+     Number of inValid rows: 10
+     ------------------------------------------------------------------------------------------------------------
+     F:\SMU academics\5510\Assignments\MCDA5510_Assignments\Sample Data\Sample Data\2017\11\13\CustomerData30.csv
+
+     Number of valid rows: 26
+     Number of inValid rows: 12
+     ------------------------------------------------------------------------------------------------------------
+     F:\SMU academics\5510\Assignments\MCDA5510_Assignments\Sample Data\Sample Data\2017\11\13\CustomerData31.csv
+
+     Number of valid rows: 15
+     Number of inValid rows: 10
+     ------------------------------------------------------------------------------------------------------------
+     F:\SMU academics\5510\Assignments\MCDA5510_Assignments\Sample Data\Sample Data\2017\11\13\CustomerData32.csv
+
+     Number of valid rows: 16
+     Number of inValid rows: 3
+     ------------------------------------------------------------------------------------------------------------
+     F:\SMU academics\5510\Assignments\MCDA5510_Assignments\Sample Data\Sample Data\2017\11\13\CustomerData4.csv
+
+     Number of valid rows: 1
+     Number of inValid rows: 1
+     ------------------------------------------------------------------------------------------------------------
+     F:\SMU academics\5510\Assignments\MCDA5510_Assignments\Sample Data\Sample Data\2017\11\13\CustomerData5.csv
+
+     Number of valid rows: 11
+     Number of inValid rows: 4
+     ------------------------------------------------------------------------------------------------------------
+     F:\SMU academics\5510\Assignments\MCDA5510_Assignments\Sample Data\Sample Data\2017\11\13\CustomerData6.csv
+
+     Number of valid rows: 9
+     Number of inValid rows: 4
+     ------------------------------------------------------------------------------------------------------------
+     F:\SMU academics\5510\Assignments\MCDA5510_Assignments\Sample Data\Sample Data\2017\11\13\CustomerData7.csv
+
+     Number of valid rows: 6
+     Number of inValid rows: 3
+     ------------------------------------------------------------------------------------------------------------
+     F:\SMU academics\5510\Assignments\MCDA5510_Assignments\Sample Data\Sample Data\2017\11\13\CustomerData8.csv
+
+     Number of valid rows: 13
+     Number of inValid rows: 8
+     ------------------------------------------------------------------------------------------------------------
+     F:\SMU academics\5510\Assignments\MCDA5510_Assignments\Sample Data\Sample Data\2017\11\13\CustomerData9.csv
+
+     Number of valid rows: 8
+     Number of inValid rows: 2
+     ------------------------------------------------------------------------------------------------------------
+============================================================================================================================
+F:\SMU academics\5510\Assignments\MCDA5510_Assignments\Sample Data\Sample Data\2017\11\14
+
+     F:\SMU academics\5510\Assignments\MCDA5510_Assignments\Sample Data\Sample Data\2017\11\14\CustomerData0.csv
+
+     Number of valid rows: 25
+     Number of inValid rows: 8
+     ------------------------------------------------------------------------------------------------------------
+============================================================================================================================
+F:\SMU academics\5510\Assignments\MCDA5510_Assignments\Sample Data\Sample Data\2017\11\15
+
+     F:\SMU academics\5510\Assignments\MCDA5510_Assignments\Sample Data\Sample Data\2017\11\15\CustomerData0.csv
+
+     Number of valid rows: 4
+     Number of inValid rows: 1
+     ------------------------------------------------------------------------------------------------------------
+     F:\SMU academics\5510\Assignments\MCDA5510_Assignments\Sample Data\Sample Data\2017\11\15\CustomerData1.csv
+
+     Number of valid rows: 24
+     Number of inValid rows: 9
+     ------------------------------------------------------------------------------------------------------------
+     F:\SMU academics\5510\Assignments\MCDA5510_Assignments\Sample Data\Sample Data\2017\11\15\CustomerData10.csv
+
+     Number of valid rows: 23
+     Number of inValid rows: 9
+     ------------------------------------------------------------------------------------------------------------
+     F:\SMU academics\5510\Assignments\MCDA5510_Assignments\Sample Data\Sample Data\2017\11\15\CustomerData11.csv
+
+     Number of valid rows: 23
+     Number of inValid rows: 7
+     ------------------------------------------------------------------------------------------------------------
+     F:\SMU academics\5510\Assignments\MCDA5510_Assignments\Sample Data\Sample Data\2017\11\15\CustomerData12.csv
+
+     Number of valid rows: 18
+     Number of inValid rows: 8
+     ------------------------------------------------------------------------------------------------------------
+     F:\SMU academics\5510\Assignments\MCDA5510_Assignments\Sample Data\Sample Data\2017\11\15\CustomerData13.csv
+
+     Number of valid rows: 22
+     Number of inValid rows: 6
+     ------------------------------------------------------------------------------------------------------------
+     F:\SMU academics\5510\Assignments\MCDA5510_Assignments\Sample Data\Sample Data\2017\11\15\CustomerData14.csv
+
+     Number of valid rows: 4
+     Number of inValid rows: 0
+     ------------------------------------------------------------------------------------------------------------
+     F:\SMU academics\5510\Assignments\MCDA5510_Assignments\Sample Data\Sample Data\2017\11\15\CustomerData15.csv
+
+     Number of valid rows: 24
+     Number of inValid rows: 11
+     ------------------------------------------------------------------------------------------------------------
+     F:\SMU academics\5510\Assignments\MCDA5510_Assignments\Sample Data\Sample Data\2017\11\15\CustomerData16.csv
+
+     Number of valid rows: 21
+     Number of inValid rows: 9
+     ------------------------------------------------------------------------------------------------------------
+     F:\SMU academics\5510\Assignments\MCDA5510_Assignments\Sample Data\Sample Data\2017\11\15\CustomerData17.csv
+
+     Number of valid rows: 1
+     Number of inValid rows: 1
+     ------------------------------------------------------------------------------------------------------------
+     F:\SMU academics\5510\Assignments\MCDA5510_Assignments\Sample Data\Sample Data\2017\11\15\CustomerData18.csv
+
+     Number of valid rows: 2
+     Number of inValid rows: 1
+     ------------------------------------------------------------------------------------------------------------
+     F:\SMU academics\5510\Assignments\MCDA5510_Assignments\Sample Data\Sample Data\2017\11\15\CustomerData19.csv
+
+     Number of valid rows: 21
+     Number of inValid rows: 12
+     ------------------------------------------------------------------------------------------------------------
+     F:\SMU academics\5510\Assignments\MCDA5510_Assignments\Sample Data\Sample Data\2017\11\15\CustomerData2.csv
+
+     Number of valid rows: 29
+     Number of inValid rows: 13
+     ------------------------------------------------------------------------------------------------------------
+     F:\SMU academics\5510\Assignments\MCDA5510_Assignments\Sample Data\Sample Data\2017\11\15\CustomerData20.csv
+
+     Number of valid rows: 13
+     Number of inValid rows: 8
+     ------------------------------------------------------------------------------------------------------------
+     F:\SMU academics\5510\Assignments\MCDA5510_Assignments\Sample Data\Sample Data\2017\11\15\CustomerData21.csv
+
+     Number of valid rows: 10
+     Number of inValid rows: 5
+     ------------------------------------------------------------------------------------------------------------
+     F:\SMU academics\5510\Assignments\MCDA5510_Assignments\Sample Data\Sample Data\2017\11\15\CustomerData22.csv
+
+     Number of valid rows: 3
+     Number of inValid rows: 2
+     ------------------------------------------------------------------------------------------------------------
+     F:\SMU academics\5510\Assignments\MCDA5510_Assignments\Sample Data\Sample Data\2017\11\15\CustomerData23.csv
+
+     Number of valid rows: 17
+     Number of inValid rows: 7
+     ------------------------------------------------------------------------------------------------------------
+     F:\SMU academics\5510\Assignments\MCDA5510_Assignments\Sample Data\Sample Data\2017\11\15\CustomerData24.csv
+
+     Number of valid rows: 10
+     Number of inValid rows: 4
+     ------------------------------------------------------------------------------------------------------------
+     F:\SMU academics\5510\Assignments\MCDA5510_Assignments\Sample Data\Sample Data\2017\11\15\CustomerData25.csv
+
+     Number of valid rows: 9
+     Number of inValid rows: 4
+     ------------------------------------------------------------------------------------------------------------
+     F:\SMU academics\5510\Assignments\MCDA5510_Assignments\Sample Data\Sample Data\2017\11\15\CustomerData26.csv
+
+     Number of valid rows: 31
+     Number of inValid rows: 9
+     ------------------------------------------------------------------------------------------------------------
+     F:\SMU academics\5510\Assignments\MCDA5510_Assignments\Sample Data\Sample Data\2017\11\15\CustomerData3.csv
+
+     Number of valid rows: 19
+     Number of inValid rows: 9
+     ------------------------------------------------------------------------------------------------------------
+     F:\SMU academics\5510\Assignments\MCDA5510_Assignments\Sample Data\Sample Data\2017\11\15\CustomerData4.csv
+
+     Number of valid rows: 3
+     Number of inValid rows: 3
+     ------------------------------------------------------------------------------------------------------------
+     F:\SMU academics\5510\Assignments\MCDA5510_Assignments\Sample Data\Sample Data\2017\11\15\CustomerData5.csv
+
+     Number of valid rows: 14
+     Number of inValid rows: 5
+     ------------------------------------------------------------------------------------------------------------
+     F:\SMU academics\5510\Assignments\MCDA5510_Assignments\Sample Data\Sample Data\2017\11\15\CustomerData6.csv
+
+     Number of valid rows: 30
+     Number of inValid rows: 3
+     ------------------------------------------------------------------------------------------------------------
+     F:\SMU academics\5510\Assignments\MCDA5510_Assignments\Sample Data\Sample Data\2017\11\15\CustomerData7.csv
+
+     Number of valid rows: 9
+     Number of inValid rows: 1
+     ------------------------------------------------------------------------------------------------------------
+     F:\SMU academics\5510\Assignments\MCDA5510_Assignments\Sample Data\Sample Data\2017\11\15\CustomerData8.csv
+
+     Number of valid rows: 7
+     Number of inValid rows: 0
+     ------------------------------------------------------------------------------------------------------------
+     F:\SMU academics\5510\Assignments\MCDA5510_Assignments\Sample Data\Sample Data\2017\11\15\CustomerData9.csv
+
+     Number of valid rows: 17
+     Number of inValid rows: 8
+     ------------------------------------------------------------------------------------------------------------
+============================================================================================================================
+F:\SMU academics\5510\Assignments\MCDA5510_Assignments\Sample Data\Sample Data\2017\11\16
+
+     F:\SMU academics\5510\Assignments\MCDA5510_Assignments\Sample Data\Sample Data\2017\11\16\CustomerData0.csv
+
+     Number of valid rows: 31
+     Number of inValid rows: 9
+     ------------------------------------------------------------------------------------------------------------
+     F:\SMU academics\5510\Assignments\MCDA5510_Assignments\Sample Data\Sample Data\2017\11\16\CustomerData1.csv
+
+     Number of valid rows: 2
+     Number of inValid rows: 0
+     ------------------------------------------------------------------------------------------------------------
+     F:\SMU academics\5510\Assignments\MCDA5510_Assignments\Sample Data\Sample Data\2017\11\16\CustomerData10.csv
+
+     Number of valid rows: 25
+     Number of inValid rows: 10
+     ------------------------------------------------------------------------------------------------------------
+     F:\SMU academics\5510\Assignments\MCDA5510_Assignments\Sample Data\Sample Data\2017\11\16\CustomerData11.csv
+
+     Number of valid rows: 11
+     Number of inValid rows: 4
+     ------------------------------------------------------------------------------------------------------------
+     F:\SMU academics\5510\Assignments\MCDA5510_Assignments\Sample Data\Sample Data\2017\11\16\CustomerData12.csv
+
+     Number of valid rows: 13
+     Number of inValid rows: 8
+     ------------------------------------------------------------------------------------------------------------
+     F:\SMU academics\5510\Assignments\MCDA5510_Assignments\Sample Data\Sample Data\2017\11\16\CustomerData2.csv
+
+     Number of valid rows: 1
+     Number of inValid rows: 4
+     ------------------------------------------------------------------------------------------------------------
+     F:\SMU academics\5510\Assignments\MCDA5510_Assignments\Sample Data\Sample Data\2017\11\16\CustomerData3.csv
+
+     Number of valid rows: 14
+     Number of inValid rows: 8
+     ------------------------------------------------------------------------------------------------------------
+     F:\SMU academics\5510\Assignments\MCDA5510_Assignments\Sample Data\Sample Data\2017\11\16\CustomerData4.csv
+
+     Number of valid rows: 13
+     Number of inValid rows: 5
+     ------------------------------------------------------------------------------------------------------------
+     F:\SMU academics\5510\Assignments\MCDA5510_Assignments\Sample Data\Sample Data\2017\11\16\CustomerData5.csv
+
+     Number of valid rows: 24
+     Number of inValid rows: 17
+     ------------------------------------------------------------------------------------------------------------
+     F:\SMU academics\5510\Assignments\MCDA5510_Assignments\Sample Data\Sample Data\2017\11\16\CustomerData6.csv
+
+     Number of valid rows: 18
+     Number of inValid rows: 10
+     ------------------------------------------------------------------------------------------------------------
+     F:\SMU academics\5510\Assignments\MCDA5510_Assignments\Sample Data\Sample Data\2017\11\16\CustomerData7.csv
+
+     Number of valid rows: 29
+     Number of inValid rows: 5
+     ------------------------------------------------------------------------------------------------------------
+     F:\SMU academics\5510\Assignments\MCDA5510_Assignments\Sample Data\Sample Data\2017\11\16\CustomerData8.csv
+
+     Number of valid rows: 12
+     Number of inValid rows: 8
+     ------------------------------------------------------------------------------------------------------------
+     F:\SMU academics\5510\Assignments\MCDA5510_Assignments\Sample Data\Sample Data\2017\11\16\CustomerData9.csv
+
+     Number of valid rows: 4
+     Number of inValid rows: 0
+     ------------------------------------------------------------------------------------------------------------
+============================================================================================================================
+F:\SMU academics\5510\Assignments\MCDA5510_Assignments\Sample Data\Sample Data\2017\11\17
+
+     F:\SMU academics\5510\Assignments\MCDA5510_Assignments\Sample Data\Sample Data\2017\11\17\CustomerData0.csv
+
+     Number of valid rows: 18
+     Number of inValid rows: 4
+     ------------------------------------------------------------------------------------------------------------
+     F:\SMU academics\5510\Assignments\MCDA5510_Assignments\Sample Data\Sample Data\2017\11\17\CustomerData1.csv
+
+     Number of valid rows: 25
+     Number of inValid rows: 9
+     ------------------------------------------------------------------------------------------------------------
+     F:\SMU academics\5510\Assignments\MCDA5510_Assignments\Sample Data\Sample Data\2017\11\17\CustomerData10.csv
+
+     Number of valid rows: 12
+     Number of inValid rows: 7
+     ------------------------------------------------------------------------------------------------------------
+     F:\SMU academics\5510\Assignments\MCDA5510_Assignments\Sample Data\Sample Data\2017\11\17\CustomerData11.csv
+
+     Number of valid rows: 24
+     Number of inValid rows: 14
+     ------------------------------------------------------------------------------------------------------------
+     F:\SMU academics\5510\Assignments\MCDA5510_Assignments\Sample Data\Sample Data\2017\11\17\CustomerData12.csv
+
+     Number of valid rows: 1
+     Number of inValid rows: 1
+     ------------------------------------------------------------------------------------------------------------
+     F:\SMU academics\5510\Assignments\MCDA5510_Assignments\Sample Data\Sample Data\2017\11\17\CustomerData13.csv
+
+     Number of valid rows: 19
+     Number of inValid rows: 0
+     ------------------------------------------------------------------------------------------------------------
+     F:\SMU academics\5510\Assignments\MCDA5510_Assignments\Sample Data\Sample Data\2017\11\17\CustomerData14.csv
+
+     Number of valid rows: 21
+     Number of inValid rows: 18
+     ------------------------------------------------------------------------------------------------------------
+     F:\SMU academics\5510\Assignments\MCDA5510_Assignments\Sample Data\Sample Data\2017\11\17\CustomerData15.csv
+
+     Number of valid rows: 27
+     Number of inValid rows: 11
+     ------------------------------------------------------------------------------------------------------------
+     F:\SMU academics\5510\Assignments\MCDA5510_Assignments\Sample Data\Sample Data\2017\11\17\CustomerData16.csv
+
+     Number of valid rows: 2
+     Number of inValid rows: 4
+     ------------------------------------------------------------------------------------------------------------
+     F:\SMU academics\5510\Assignments\MCDA5510_Assignments\Sample Data\Sample Data\2017\11\17\CustomerData17.csv
+
+     Number of valid rows: 2
+     Number of inValid rows: 0
+     ------------------------------------------------------------------------------------------------------------
+     F:\SMU academics\5510\Assignments\MCDA5510_Assignments\Sample Data\Sample Data\2017\11\17\CustomerData18.csv
+
+     Number of valid rows: 14
+     Number of inValid rows: 8
+     ------------------------------------------------------------------------------------------------------------
+     F:\SMU academics\5510\Assignments\MCDA5510_Assignments\Sample Data\Sample Data\2017\11\17\CustomerData19.csv
+
+     Number of valid rows: 18
+     Number of inValid rows: 12
+     ------------------------------------------------------------------------------------------------------------
+     F:\SMU academics\5510\Assignments\MCDA5510_Assignments\Sample Data\Sample Data\2017\11\17\CustomerData2.csv
+
+     Number of valid rows: 22
+     Number of inValid rows: 10
+     ------------------------------------------------------------------------------------------------------------
+     F:\SMU academics\5510\Assignments\MCDA5510_Assignments\Sample Data\Sample Data\2017\11\17\CustomerData20.csv
+
+     Number of valid rows: 18
+     Number of inValid rows: 14
+     ------------------------------------------------------------------------------------------------------------
+     F:\SMU academics\5510\Assignments\MCDA5510_Assignments\Sample Data\Sample Data\2017\11\17\CustomerData21.csv
+
+     Number of valid rows: 23
+     Number of inValid rows: 6
+     ------------------------------------------------------------------------------------------------------------
+     F:\SMU academics\5510\Assignments\MCDA5510_Assignments\Sample Data\Sample Data\2017\11\17\CustomerData22.csv
+
+     Number of valid rows: 2
+     Number of inValid rows: 0
+     ------------------------------------------------------------------------------------------------------------
+     F:\SMU academics\5510\Assignments\MCDA5510_Assignments\Sample Data\Sample Data\2017\11\17\CustomerData23.csv
+
+     Number of valid rows: 29
+     Number of inValid rows: 13
+     ------------------------------------------------------------------------------------------------------------
+     F:\SMU academics\5510\Assignments\MCDA5510_Assignments\Sample Data\Sample Data\2017\11\17\CustomerData24.csv
+
+     Number of valid rows: 2
+     Number of inValid rows: 1
+     ------------------------------------------------------------------------------------------------------------
+     F:\SMU academics\5510\Assignments\MCDA5510_Assignme
