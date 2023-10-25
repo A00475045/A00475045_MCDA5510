@@ -1,4 +1,4 @@
-﻿using System;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -13,7 +13,19 @@ namespace Assignment1
     {
 
         public static void Main(string[] args)
-        {
+        {   /* This Class serves as the POC with its user
+             * For the Sack of Simplicity I am hard coding the Path of the Data Directory
+             * The Follow of the Project is Like:
+             *      DriverClass.Main() 
+             *      (call)-> 
+             *      RecursivePathSearch.pathFinder():finds list of subDir and all the file and Recursively go to each subDir to do the same 
+             *      (call)-> 
+             *      DLL.getDataFromFile(): gets all the records from the files and and stores it into a LIST
+             *      (return) ->
+             *      RecursivePathSearch.pathFinder(): The recieved List is written to an outPut file
+             
+
+             */
             string outputPath = "~\\..\\..\\..\\..\\Output\\Final Output.csv";
             string logsPath = "~\\..\\..\\..\\..\\logs\\Logs.txt";
             if (File.Exists(logsPath)) File.Delete(logsPath);
