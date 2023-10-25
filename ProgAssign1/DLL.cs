@@ -1,4 +1,4 @@
-﻿using System.Globalization;
+using System.Globalization;
 using System.Text.RegularExpressions;
 using CsvHelper;
 using CsvHelper.Configuration;
@@ -56,6 +56,9 @@ namespace Assignment1
 
         public bool isEntryValid(Format record)
         {
+            /*
+             * this fuction checks if a particular record is in a Correct format or not!
+             */
             if (
                         !IsValid(record.email) || String.IsNullOrEmpty(record.firstName) || String.IsNullOrEmpty(record.lastName) || String.IsNullOrEmpty(record.streetNumber.ToString()) ||
                                         String.IsNullOrEmpty(record.street) || String.IsNullOrEmpty(record.city) || String.IsNullOrEmpty(record.province) || String.IsNullOrEmpty(record.postal) || String.IsNullOrEmpty(record.country) || String.IsNullOrEmpty(record.phoneNumber.ToString()) || String.IsNullOrEmpty(record.email)
@@ -73,6 +76,10 @@ namespace Assignment1
 
         public List<Format> getDataFromFile( string fileName , DateTime date, StreamWriter logger)
         {
+            /*
+             * this fuction Retrieves the data from the .csv and stores it into a list<Format> which is sent back to the caller, for storing into the Final Output.csv
+             
+             */
                 List<Format> validEntries = new List<Format>();
                 int __rowSkipped = rowSkipped;
                 int __validColumnCount = validColumnCount;
